@@ -335,3 +335,4 @@ ASALocalRun/
 ## For this repo, no need to upload project
 *.vcxproj
 *.vcxproj.filters
+*.sln
