@@ -5,11 +5,20 @@ be it: I just decided to solve some practice problems from past programming
 contests.~~  
 Ranked top 9 for USC Programming Contest (2018 Fall), and now preparing for
 [ICPC SoCal Regional](http://socalcontest.org/current/index.shtml 
-"SoCal Region ICPC") that is in 17 days!
+"SoCal Region ICPC") that is in 16 days!
+
+I also find it interesting how literally each coach uses different online judge
+websites.
 
 Language: C++  
 
 ## Problems 
+See sub-folders for notes and solution write-ups (for those that I found
+particularly interesting). 
+
+### Sphere Online Judge
+- __Inside or Outside__: determine if a point is inside a polygon
+
 ### UVa Online Judge
 - __Error Correction__: parity property
 - __Goldbach's Conjecture__: sum of prime numbers
