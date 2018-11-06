@@ -5,7 +5,7 @@ be it: I just decided to solve some practice problems from past programming
 contests.~~  
 Ranked top 9 for USC Programming Contest (2018 Fall), and now preparing for
 [ICPC SoCal Regional](http://socalcontest.org/current/index.shtml 
-"SoCal Region ICPC") that is in 16 days!
+"SoCal Region ICPC") that is in 5 days!
 
 I also find it interesting how literally each coach uses different online judge
 websites.
@@ -24,6 +24,15 @@ particularly interesting).
 - __Goldbach's Conjecture__: sum of prime numbers
 - __Caesar Cypher__: encryption/decryption
 - __Just the Facts__: finding last non-zero digit of a factorial
+- __Heads__: number conversion to scientific notation using log
+- __Bridge Hands__: deal and sort cards
+- __Oil Deposits: BFS
+- __LC Display__: output digits like LC display 
+- __Adding Reversed Numbers__: add numbers up to 200 digits
+- __487--3279__: find duplicates
+- __The Return of the Roman Empire__: Roman numeral validation
+- __Monkeys in a Regular Forest__: BFS
+- __Ananagrams__: given a dictionary, find words that are not anagrams
 
 ### USC Programming Contest (2018 Spring)
 - __Tide Pods__: basic finding maximum difference
