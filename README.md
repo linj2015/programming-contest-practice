@@ -26,7 +26,7 @@ particularly interesting).
 - __Just the Facts__: finding last non-zero digit of a factorial
 - __Heads__: number conversion to scientific notation using log
 - __Bridge Hands__: deal and sort cards
-- __Oil Deposits: BFS
+- __Oil Deposits__: BFS
 - __LC Display__: output digits like LC display 
 - __Adding Reversed Numbers__: add numbers up to 200 digits
 - __487--3279__: find duplicates
