@@ -5,7 +5,7 @@ be it: I just decided to solve some practice problems from past programming
 contests.~~  
 Ranked top 9 for USC Programming Contest (2018 Fall), and now preparing for
 [ICPC SoCal Regional](http://socalcontest.org/current/index.shtml 
-"SoCal Region ICPC") that is in 4 days!
+"SoCal Region ICPC") that is in 3 days!
 
 I also find it interesting how literally each coach uses different online judge
 websites.
@@ -34,6 +34,8 @@ particularly interesting).
 - __Monkeys in a Regular Forest__: BFS
 - __Ananagrams__: given a dictionary, find words that are not anagrams
 - __String Computer__: DP edit distance
+- __Dividing Coins__: DP subset sum
+- __Always on the Run__: DP minimal path/cost
 
 ### USC Programming Contest (2018 Spring)
 - __Tide Pods__: basic finding maximum difference
